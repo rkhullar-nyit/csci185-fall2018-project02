@@ -27,5 +27,5 @@ You can also run the unit tests directly for more detailed messages.
 Remember to commit and push your code to your github repository.
 
 ### Project Reflection
-1. What are the purpose of generic classes in Java. Why not create a linked list for ```Object``` only?
+1. What are the purposes of generic classes in Java. Why not create a linked list for ```Object``` only?
 2. What are the advantages and disadvantages of using the linked list over an array?
